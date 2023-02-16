@@ -39,10 +39,10 @@ yarn start
 
 Create a `Env.plist` file with the following values (or copy from `.Env.plist.example`):
 
-`issuerCardId` -> Id for the Card that you want to fetch from the third party issuer.
-`btCardId` -> Id for the Card that you want to fetch from Basis Theory.
-`proxyKey` -> Key obtained from the response of `/create-proxy` from the backend.
-`btPublicKey` -> Your public Basis Theory API Key.
+- `issuerCardId` -> Id for the Card that you want to fetch from the third party issuer.
+- `btCardId` -> Id for the Card that you want to fetch from Basis Theory.
+- `proxyKey` -> Key obtained from the response of `/create-proxy` from the backend.
+- `btPublicKey` -> Your public Basis Theory API Key.
 
 ## 4. Running the iOS App
 
