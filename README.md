@@ -1,4 +1,4 @@
-# Display Virtual Card with iOS
+# Display Virtual Cards Blueprint
 
 This example repository demonstrates how one can securely display Card data back to users, using [Basis Theory iOS](https://developers.basistheory.com/docs/sdks/mobile/ios).
 For full details on what every part of the code is doing, visit our official [blueprint](https://developers.basistheory.com/docs/blueprints/cards/display-virtual-cards).
