@@ -1,0 +1,10 @@
+.DS_Store
+.netrc
+
+#backend
+*/node_modules
+backend/.env
+
+#ios
+ios/**/xcuserdata/
+ios/DisplayIssuedCards/Env.plist
